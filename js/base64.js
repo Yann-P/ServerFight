@@ -1,7 +1,5 @@
 /**
- * Author Yann Pellegrini
- * Date 2011
- * Licence GPLv3
+ * http://www.devkb.org/javascript/8-Encoder-decoder-du-texte-en-Base64-en-JavaScript
  */
 
 
